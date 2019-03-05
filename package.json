@@ -1,0 +1,24 @@
+{
+  "name": "qa-coding-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress.open": "$(npm bin)/cypress open",
+    "cypress.run": "$(npm bin)/cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LH-Ventures/QA-Coding-Challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LH-Ventures/QA-Coding-Challenge/issues"
+  },
+  "homepage": "https://github.com/LH-Ventures/QA-Coding-Challenge#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^3.1.5"
+  }
+}
