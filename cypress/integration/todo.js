@@ -1,7 +1,7 @@
 context("todo tests", () => {
   describe("filters", () => {
     it("'All' should be the default filter", () => {
-      cy.visit("https://www.todobackend.com/client/index.html?https://todo-backend-typescript.herokuapp.com/")
+      cy.visit("/")
         .get(".selected")
         .contains("All");
     });
