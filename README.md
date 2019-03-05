@@ -25,4 +25,4 @@ In this challenge you will write automation tests for a [TodoMVC website](https:
 
 ## Delivering Your Completed Challenge
 
-- After you're done, commit your changes, upload to your github and send us a link.
+- After you're done, commit your changes, upload to your GitHub and send us a link.
