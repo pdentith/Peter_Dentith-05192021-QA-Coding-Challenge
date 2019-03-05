@@ -15,7 +15,7 @@
 
 ## Challenge Requirements
 
-In this challenge you will write automation tests for a [TodoMVC website](https://www.todobackend.com/client/index.html?https://todo-backend-typescript.herokuapp.com/) To the best of your ability. You will load fixtures from `cypress/fixtures` to stub network requests, and write integration tests in `cypress/integration`.
+In this challenge you will write automation tests for a [TodoMVC website](https://www.todobackend.com/client/index.html?https://todo-backend-typescript.herokuapp.com/) to the best of your ability. You will load fixtures from `cypress/fixtures` to stub network requests, and write integration tests in `cypress/integration`.
 
 ## Delivering Your Completed Challenge
 
