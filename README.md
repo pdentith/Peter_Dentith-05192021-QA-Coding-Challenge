@@ -19,8 +19,8 @@ In this challenge you will write automation tests for a [TodoMVC website](https:
 
 ## Instructions:
 
-- All tests will go in cypress/integration
-- Stub network requests using fixture data in cypress/fixtures
+- All tests will go in `cypress/integration`
+- Stub network requests using fixture data in `cypress/fixtures`
 - Write tests to cover the core functionality of the site including adding and removing todos, toggling between active/completed, validating number of todos
 
 ## Delivering Your Completed Challenge
