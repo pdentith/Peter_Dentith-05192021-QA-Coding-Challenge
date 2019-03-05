@@ -13,9 +13,15 @@
 - Click the button `Run all specs` in the top right to begin running tests.
 - Cypress should automatically open and will reload on subsequent file changes
 
-## Challenge Requirements
+## Overview
 
-In this challenge you will write automation tests for a [TodoMVC website](https://www.todobackend.com/client/index.html?https://todo-backend-typescript.herokuapp.com/) to the best of your ability. You will load fixtures from `cypress/fixtures` to stub network requests, and write integration tests in `cypress/integration`.
+In this challenge you will write automation tests for a [TodoMVC website](https://www.todobackend.com/client/index.html?https://todo-backend-typescript.herokuapp.com/) to the best of your ability.
+
+## Instructions:
+
+- All tests will go in cypress/integration
+- Stub network requests using fixture data in cypress/fixtures
+- Write tests to cover the core functionality of the site including adding and removing todos, toggling between active/completed, validating number of todos
 
 ## Delivering Your Completed Challenge
 
