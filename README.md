@@ -15,7 +15,7 @@
 
 ## Overview
 
-In this challenge you will write automation tests for a [TodoMVC website](https://www.todobackend.com/client/index.html?https://todo-backend-typescript.herokuapp.com/) to the best of your ability.
+In this challenge you will write automation tests for this [TodoMVC website](https://www.todobackend.com/client/index.html?https://todo-backend-typescript.herokuapp.com/) to the best of your ability.
 
 ## Instructions:
 
