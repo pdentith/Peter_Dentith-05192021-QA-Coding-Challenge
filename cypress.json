@@ -1,3 +1,4 @@
 {
-  "baseUrl": "https://www.todobackend.com/client/index.html?https://todo-backend-typescript.herokuapp.com"
+  "baseUrl": "http://www.todobackend.com/client/index.html?http://todo-backend-typescript.herokuapp.com",
+  "experimentalStudio": true
 }

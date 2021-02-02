@@ -1,11 +1,11 @@
 {
   "name": "qa-coding-challenge",
   "version": "1.0.0",
-  "description": "",
+  "description": "Surefront QA Coding Challenge",
   "main": "index.js",
   "scripts": {
-    "cypress.open": "$(npm bin)/cypress open",
-    "cypress.run": "$(npm bin)/cypress run"
+    "cypress.open": "cypress open",
+    "cypress.run": "cypress run"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,6 @@
   "homepage": "https://github.com/LH-Ventures/QA-Coding-Challenge#readme",
   "dependencies": {},
   "devDependencies": {
-    "cypress": "^3.1.5"
+    "cypress": "^6.4.0"
   }
 }
