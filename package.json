@@ -17,8 +17,7 @@
     "url": "https://github.com/LH-Ventures/QA-Coding-Challenge/issues"
   },
   "homepage": "https://github.com/LH-Ventures/QA-Coding-Challenge#readme",
-  "dependencies": {},
   "devDependencies": {
-    "cypress": "^6.4.0"
+    "cypress": "^7.3.0"
   }
 }
