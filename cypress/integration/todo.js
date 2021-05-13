@@ -1,8 +1,8 @@
 context("todo tests", () => {
   describe("filters", () => {
     it("'All' should be the default filter", () => {
-      cy.visit("/")
-        .get(".selected")
+      cy.visitTodos()
+      cy.get(".selected")
         .contains("All");
     });
   });

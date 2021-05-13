@@ -18,3 +18,9 @@ import './commands'
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
+
+Cypress.Commands.add('visitTodos', () => {
+  cy.server()
+  cy.route('GET', '/', 'fixture:todos')
+  cy.visit('/').wait(300)
+})
