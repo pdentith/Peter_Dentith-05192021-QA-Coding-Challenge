@@ -23,7 +23,7 @@ Please write tests that cover the core functionality of the site including:
 
 ## Prerequisites
 
-- **You'll need NodeJS `>= 10` installed.** We recommend using [nodenv](https://github.com/nodenv/nodenv) to manage NodeJS versions.
+- **You'll need NodeJS version 14.17.0 or higher installed.** We recommend using [nodenv](https://github.com/nodenv/nodenv) to manage NodeJS versions.
 
 ## Installation
 
