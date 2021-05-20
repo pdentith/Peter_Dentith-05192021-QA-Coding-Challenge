@@ -1,0 +1,28 @@
+
+  {
+    "POST":
+    {
+      "title": "Send a POST request",
+      "order": 1,
+      "completed": false
+    },
+    "PATCH":
+    {
+      "title": "PATCH body",
+      "order": 1,
+      "completed": true
+
+    },
+    "GET":
+    {
+      "title": "Send a POST request"
+    },
+    "DELETE":
+    {
+
+    },
+    "OPTIONS":
+    {
+      
+    }
+  }

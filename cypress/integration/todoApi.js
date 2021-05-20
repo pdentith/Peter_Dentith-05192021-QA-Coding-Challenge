@@ -1,4 +1,4 @@
-import apiRequests from '../fixtures/peters-todos.json'
+import apiRequests from '../fixtures/api.json'
 
 let baseUrl = 'http://todo-backend-typescript.herokuapp.com/'
 
