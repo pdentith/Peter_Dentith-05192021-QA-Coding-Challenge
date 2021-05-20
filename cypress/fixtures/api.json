@@ -1,5 +1,9 @@
 
   {
+    "HEADERS":
+    {
+      
+    },
     "POST":
     {
       "title": "Send a POST request",
@@ -9,7 +13,7 @@
     "PATCH":
     {
       "title": "PATCH body",
-      "order": 1,
+      "order": 12,
       "completed": true
 
     },
